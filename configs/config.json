@@ -1,0 +1,7 @@
+{
+  "img_size": 250,
+  "input_shape": [250, 250, 3],
+  "patch_size": 25,
+  "projection_dim": 64,
+  "batch_size": 64
+}
