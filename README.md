@@ -1,10 +1,6 @@
 # Meme Detection Model
 
-* This code is adapted from the "MemeTector: Enforcing deep focus for meme detection" paper's github repo.
-
-      ** url: https://arxiv.org/abs/2205.13268
-  
-      ** github: https://github.com/mever-team/memetector
+* This code is adapted from the "MemeTector: Enforcing deep focus for meme detection" paper's github repo (url: https://arxiv.org/abs/2205.13268, github: https://github.com/mever-team/memetector).
 
 * First, you need to install libraries. To do this run the following command:
 
